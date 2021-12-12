@@ -1,4 +1,4 @@
-# Eindopdracht-Bit-Academy--Tafel-en-topografie-trainer
+# Tafel-en-topografie-trainer
 
 Dit is mijn eindopdracht die ik voor de full stack web developer opleiding heb gemaakt van de Bit Academy.
 
